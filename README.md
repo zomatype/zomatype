@@ -4,7 +4,7 @@
 - 🛠 [Shaminer](https://github.com/iBeeM-12/front_environment)
 - 🎶 [同担拒否](https://github.com/hacku-chamomilla/doutankyohi-front-end)
 - 🕶 [OpenCalendar](https://github.com/0time-engineer/front-end)
--  [TwitchClipper](https://github.com/necocats/twitchclipper-frontend)
+-  ![Project Icon](https://github.com/necocats/twitchclipper-frontend/blob/master/public/twitch_clipper_icon.png?raw=true)[TwitchClipper](https://github.com/necocats/twitchclipper-frontend)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zoma_neko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zoma_neko" height="30" width="40" /></a>
