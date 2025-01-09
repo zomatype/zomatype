@@ -2,9 +2,9 @@
 
 ## 🚧 Projects
 -  [Shaminer](https://github.com/iBeeM-12/front_environment)
--  <img src="https://avatars.githubusercontent.com/u/124477004?s=48&v=4" alt="Project Icon" width="15"/>  [同担拒否](https://github.com/hacku-chamomilla/doutankyohi-front-end)
+-  <img src="https://avatars.githubusercontent.com/u/124477004?s=48&v=4" alt="Project Icon" width="16"/>  [同担拒否](https://github.com/hacku-chamomilla/doutankyohi-front-end)
 -  [OpenCalendar](https://github.com/0time-engineer/front-end)
--  <img src="https://github.com/necocats/twitchclipper-frontend/blob/master/public/twitch_clipper_icon.png?raw=true" alt="Project Icon" width="15" />  [TwitchClipper](https://github.com/necocats/twitchclipper-frontend)
+-  <img src="https://github.com/necocats/twitchclipper-frontend/blob/master/public/twitch_clipper_icon.png?raw=true" alt="Project Icon" width="16" />  [TwitchClipper](https://github.com/necocats/twitchclipper-frontend)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zoma_neko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zoma_neko" height="30" width="40" /></a>
