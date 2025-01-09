@@ -2,7 +2,7 @@
 
 ## 🚧 Projects
 -  [Shaminer](https://github.com/iBeeM-12/front_environment)
--  [同担拒否](https://github.com/hacku-chamomilla/doutankyohi-front-end)
+-  <img src="https://avatars.githubusercontent.com/u/124477004?s=48&v=4" alt="Project Icon" />  [同担拒否](https://github.com/hacku-chamomilla/doutankyohi-front-end)
 -  [OpenCalendar](https://github.com/0time-engineer/front-end)
 -  <img src="https://github.com/necocats/twitchclipper-frontend/blob/master/public/twitch_clipper_icon.png?raw=true" alt="Project Icon" width="15" />  [TwitchClipper](https://github.com/necocats/twitchclipper-frontend)
 <h3 align="left">Connect with me:</h3>
