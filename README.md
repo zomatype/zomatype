@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keisuke Soma</h1>
 
+Webアプリ作成と機械学習やってます
+
 ## 🚧 Projects
 -  [Shaminer](https://github.com/iBeeM-12/front_environment)
 -  <img src="https://avatars.githubusercontent.com/u/124477004?s=48&v=4" alt="Project Icon" width="16"/>  [同担拒否](https://github.com/hacku-chamomilla/doutankyohi-front-end)
