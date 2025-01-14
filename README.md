@@ -6,7 +6,7 @@ Webアプリ作成と機械学習やってます
 -  [Shaminer](https://github.com/iBeeM-12/front_environment)　フロントエンド担当
 -  <img src="https://avatars.githubusercontent.com/u/124477004?s=48&v=4" alt="Project Icon" width="16"/>  [同担拒否](https://github.com/hacku-chamomilla/doutankyohi-front-end)　フロントエンド担当
 -  [OpenCalendar](https://github.com/0time-engineer/front-end)　フロントエンド担当
--  <img src="https://github.com/necocats/twitchclipper-frontend/blob/master/public/twitch_clipper_icon.png?raw=true" alt="Project Icon" width="16" />  [TwitchClipper]　(https://github.com/necocats/twitchclipper-frontend)　　フロントエンド/バックエンド担当
+-  <img src="https://github.com/necocats/twitchclipper-frontend/blob/master/public/twitch_clipper_icon.png?raw=true" alt="Project Icon" width="16" />  [TwitchClipper](https://github.com/necocats/twitchclipper-frontend)　　フロントエンド/バックエンド担当
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zoma_neko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zoma_neko" height="30" width="40" /></a>
